@@ -1,0 +1,1 @@
+To use this, simply create a new directory called .github and then another inside of that called workflows, then simply put this file inside of it and change the two bits at the bottom of the script that are to-do with the jar file and push it, then it should auto release the jar file
